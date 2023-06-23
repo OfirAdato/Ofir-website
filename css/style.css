@@ -291,7 +291,7 @@ a:focus {
 
 .hero .hero-text h1 {
     color: #ffffff;
-    font-size: 60px;
+    font-size: 85px;
     font-weight: 700;
     letter-spacing: 3px;
     margin-bottom: 15px;
@@ -489,8 +489,14 @@ a:focus {
     margin-bottom: 30px;
 }
 
+
 .about .about-img {
-    position: relative;
+    position: left;
+    height: 100%;
+}
+
+.about .about-right-img {
+    position: inline-block;
     height: 100%;
 }
 
